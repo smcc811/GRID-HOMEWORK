@@ -1,20 +1,27 @@
+/* h1 style */
+
 h1 {
     color: black;
     text-shadow : 2px 2px;
    
 }
 
+/* body style */
+
 body   
 {
-    background-color : beige ;
+    background-color :white;
 
 }
 
-
+/*response style */
 .responsive {
     width: 100%;
     height: auto;
   }
+
+
+/* footer style */  
 
   .footer {
     position: fixed;

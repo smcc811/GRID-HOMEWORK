@@ -1,20 +1,30 @@
+/* hi style*/
 h1 {
     color: black;
     text-shadow : 2px 2px;
    
 }
-
-body   
+/*body style */
+.container  
 {
-    background-color :  beige ; 
+    background-color:white;
+
 
 }
 
+.form {
+    background-image : url("./image/pattern.png");
+
+}
+
+
+/*response style */
 .responsive {
     width: 100%;
     height: auto;
   }
 
+  /* footer style */
   .footer {
     position: fixed;
     left: 0;

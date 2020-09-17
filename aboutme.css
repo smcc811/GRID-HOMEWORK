@@ -1,16 +1,19 @@
+
+/* hi style */
 h1 {
     color: black;
     text-shadow : 2px 2px;
    
 }
 
+/*body style*/
 body   
 {
-    background-color : beige ;
+    background-color :white ;
 
 }
 
-
+/*footer style */
 .footer {
     position: fixed;
     left: 0;
@@ -20,6 +23,7 @@ body
     color: white;
     text-align: center;
 }
+
 
 
 
